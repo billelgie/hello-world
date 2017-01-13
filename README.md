@@ -1,2 +1,3 @@
 # hello-world
-sandbox area
+
+Area for testing, working with git, learning go, playing with C#,.....
